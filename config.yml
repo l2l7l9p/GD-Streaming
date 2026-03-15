@@ -1,0 +1,9 @@
+n: 6
+edgelistfile: edge_list_sample.csv
+edgelistmode: local-plaintxt
+ddordermode: approx-heuristic
+epsilon: 0.5
+k: 4
+target: 100
+MAX_EDGES: 10000
+func: ugs
